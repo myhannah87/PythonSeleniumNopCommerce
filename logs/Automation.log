@@ -1,0 +1,196 @@
+18-Jul-26 10:53:13 - WARNING - The chromedriver version (149.0.7827.196) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\chromedriver.exe might not be compatible with the detected chrome version (150.0.7871.124); currently, chromedriver 150.0.7871.124 is recommended for chrome 150.*, so it is advised to delete the driver in PATH and retry
+18-Jul-26 10:53:14 - INFO - *************test_title_verification*************
+18-Jul-26 10:53:14 - INFO - *************verification of page title*************
+18-Jul-26 10:53:15 - INFO - *************test_title_verification matched*************
+18-Jul-26 10:53:15 - WARNING - The chromedriver version (149.0.7827.196) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\chromedriver.exe might not be compatible with the detected chrome version (150.0.7871.124); currently, chromedriver 150.0.7871.124 is recommended for chrome 150.*, so it is advised to delete the driver in PATH and retry
+18-Jul-26 10:53:16 - INFO - *************test_valid_login*************
+18-Jul-26 10:53:17 - INFO - *************Dashboard text found*************
+18-Jul-26 10:53:17 - WARNING - The chromedriver version (149.0.7827.196) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\chromedriver.exe might not be compatible with the detected chrome version (150.0.7871.124); currently, chromedriver 150.0.7871.124 is recommended for chrome 150.*, so it is advised to delete the driver in PATH and retry
+18-Jul-26 10:53:18 - INFO - *************test_locked_out_login*************
+18-Jul-26 10:53:19 - INFO - *************error message matches*************
+18-Jul-26 10:53:19 - WARNING - The chromedriver version (149.0.7827.196) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\chromedriver.exe might not be compatible with the detected chrome version (150.0.7871.124); currently, chromedriver 150.0.7871.124 is recommended for chrome 150.*, so it is advised to delete the driver in PATH and retry
+18-Jul-26 10:53:20 - INFO - *************test_incorrect_user_login*************
+18-Jul-26 10:53:20 - INFO - *************error text matches*************
+20-Jul-26 06:44:34 - WARNING - The chromedriver version (149.0.7827.196) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\chromedriver.exe might not be compatible with the detected chrome version (150.0.7871.124); currently, chromedriver 150.0.7871.124 is recommended for chrome 150.*, so it is advised to delete the driver in PATH and retry
+20-Jul-26 06:44:35 - INFO - *************Test_01_Admin_Login*************
+20-Jul-26 06:44:35 - INFO - *************verification of page title*************
+20-Jul-26 06:44:35 - INFO - *************test_title_verification matched*************
+20-Jul-26 06:44:35 - WARNING - The chromedriver version (149.0.7827.196) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\chromedriver.exe might not be compatible with the detected chrome version (150.0.7871.124); currently, chromedriver 150.0.7871.124 is recommended for chrome 150.*, so it is advised to delete the driver in PATH and retry
+20-Jul-26 06:44:36 - INFO - *************test_valid_login*************
+20-Jul-26 06:44:37 - WARNING - The chromedriver version (149.0.7827.196) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\chromedriver.exe might not be compatible with the detected chrome version (150.0.7871.124); currently, chromedriver 150.0.7871.124 is recommended for chrome 150.*, so it is advised to delete the driver in PATH and retry
+20-Jul-26 06:44:37 - INFO - *************test_locked_out_login*************
+20-Jul-26 06:44:38 - INFO - *************error message matches*************
+20-Jul-26 06:44:38 - WARNING - The chromedriver version (149.0.7827.196) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\chromedriver.exe might not be compatible with the detected chrome version (150.0.7871.124); currently, chromedriver 150.0.7871.124 is recommended for chrome 150.*, so it is advised to delete the driver in PATH and retry
+20-Jul-26 06:44:39 - INFO - *************test_incorrect_user_login*************
+20-Jul-26 06:44:39 - INFO - *************error text matches*************
+20-Jul-26 06:45:48 - WARNING - The chromedriver version (149.0.7827.196) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\chromedriver.exe might not be compatible with the detected chrome version (150.0.7871.124); currently, chromedriver 150.0.7871.124 is recommended for chrome 150.*, so it is advised to delete the driver in PATH and retry
+20-Jul-26 06:45:49 - INFO - *************Test_01_Admin_Login*************
+20-Jul-26 06:45:49 - INFO - *************verification of page title*************
+20-Jul-26 06:45:49 - INFO - *************test_title_verification matched*************
+20-Jul-26 06:45:50 - WARNING - The chromedriver version (149.0.7827.196) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\chromedriver.exe might not be compatible with the detected chrome version (150.0.7871.124); currently, chromedriver 150.0.7871.124 is recommended for chrome 150.*, so it is advised to delete the driver in PATH and retry
+20-Jul-26 06:45:50 - INFO - *************test_valid_login*************
+20-Jul-26 06:45:51 - INFO - *************Dashboard text found*************
+20-Jul-26 06:45:51 - WARNING - The chromedriver version (149.0.7827.196) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\chromedriver.exe might not be compatible with the detected chrome version (150.0.7871.124); currently, chromedriver 150.0.7871.124 is recommended for chrome 150.*, so it is advised to delete the driver in PATH and retry
+20-Jul-26 06:45:52 - INFO - *************test_locked_out_login*************
+20-Jul-26 06:45:52 - INFO - *************error message matches*************
+20-Jul-26 06:45:53 - WARNING - The chromedriver version (149.0.7827.196) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\chromedriver.exe might not be compatible with the detected chrome version (150.0.7871.124); currently, chromedriver 150.0.7871.124 is recommended for chrome 150.*, so it is advised to delete the driver in PATH and retry
+20-Jul-26 06:45:54 - INFO - *************test_incorrect_user_login*************
+20-Jul-26 06:45:54 - INFO - *************error text matches*************
+20-Jul-26 06:57:30 - WARNING - The chromedriver version (149.0.7827.196) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\chromedriver.exe might not be compatible with the detected chrome version (150.0.7871.124); currently, chromedriver 150.0.7871.124 is recommended for chrome 150.*, so it is advised to delete the driver in PATH and retry
+20-Jul-26 06:57:31 - INFO - *************Test_01_Admin_Login*************
+20-Jul-26 06:57:31 - INFO - *************verification of page title*************
+20-Jul-26 06:57:32 - INFO - *************test_title_verification matched*************
+20-Jul-26 06:57:32 - WARNING - The chromedriver version (149.0.7827.196) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\chromedriver.exe might not be compatible with the detected chrome version (150.0.7871.124); currently, chromedriver 150.0.7871.124 is recommended for chrome 150.*, so it is advised to delete the driver in PATH and retry
+20-Jul-26 06:57:33 - INFO - *************test_valid_login*************
+20-Jul-26 06:57:34 - INFO - *************Dashboard text found*************
+20-Jul-26 06:57:34 - WARNING - The chromedriver version (149.0.7827.196) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\chromedriver.exe might not be compatible with the detected chrome version (150.0.7871.124); currently, chromedriver 150.0.7871.124 is recommended for chrome 150.*, so it is advised to delete the driver in PATH and retry
+20-Jul-26 06:57:35 - INFO - *************test_locked_out_login*************
+20-Jul-26 06:57:35 - INFO - *************error message matches*************
+20-Jul-26 06:57:35 - WARNING - The chromedriver version (149.0.7827.196) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\chromedriver.exe might not be compatible with the detected chrome version (150.0.7871.124); currently, chromedriver 150.0.7871.124 is recommended for chrome 150.*, so it is advised to delete the driver in PATH and retry
+20-Jul-26 06:57:36 - INFO - *************test_incorrect_user_login*************
+20-Jul-26 06:57:37 - INFO - *************error text matches*************
+20-Jul-26 07:00:20 - INFO - *************Test_01_Admin_Login*************
+20-Jul-26 07:00:20 - INFO - *************verification of page title*************
+20-Jul-26 07:00:20 - INFO - *************test_title_verification matched*************
+20-Jul-26 07:00:21 - INFO - *************test_valid_login*************
+20-Jul-26 07:00:22 - INFO - *************Dashboard text found*************
+20-Jul-26 07:00:24 - INFO - *************test_locked_out_login*************
+20-Jul-26 07:00:24 - INFO - *************error message matches*************
+20-Jul-26 07:00:26 - INFO - *************test_incorrect_user_login*************
+20-Jul-26 07:00:26 - INFO - *************error text matches*************
+21-Jul-26 05:57:17 - WARNING - The geckodriver version (0.37.1) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\geckodriver.exe might not be compatible with the detected firefox version (151.0.4); currently, geckodriver 0.37.0 is recommended for firefox 151.*, so it is advised to delete the driver in PATH and retry
+21-Jul-26 05:57:24 - INFO - *************Test_01_Admin_Login*************
+21-Jul-26 05:57:24 - INFO - *************verification of page title*************
+21-Jul-26 05:57:24 - INFO - *************test_title_verification matched*************
+21-Jul-26 05:57:25 - WARNING - The geckodriver version (0.37.1) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\geckodriver.exe might not be compatible with the detected firefox version (151.0.4); currently, geckodriver 0.37.0 is recommended for firefox 151.*, so it is advised to delete the driver in PATH and retry
+21-Jul-26 05:57:32 - INFO - *************test_valid_login*************
+21-Jul-26 05:57:33 - INFO - *************Dashboard text found*************
+21-Jul-26 05:57:34 - WARNING - The geckodriver version (0.37.1) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\geckodriver.exe might not be compatible with the detected firefox version (151.0.4); currently, geckodriver 0.37.0 is recommended for firefox 151.*, so it is advised to delete the driver in PATH and retry
+21-Jul-26 05:57:41 - INFO - *************test_locked_out_login*************
+21-Jul-26 05:57:41 - INFO - *************error message matches*************
+21-Jul-26 05:57:42 - WARNING - The geckodriver version (0.37.1) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\geckodriver.exe might not be compatible with the detected firefox version (151.0.4); currently, geckodriver 0.37.0 is recommended for firefox 151.*, so it is advised to delete the driver in PATH and retry
+21-Jul-26 05:57:48 - INFO - *************test_incorrect_user_login*************
+21-Jul-26 05:57:49 - INFO - *************error text matches*************
+21-Jul-26 06:01:22 - INFO - *************Test_01_Admin_Login*************
+21-Jul-26 06:01:22 - INFO - *************verification of page title*************
+21-Jul-26 06:01:22 - INFO - *************test_title_verification matched*************
+21-Jul-26 06:01:23 - INFO - *************test_valid_login*************
+21-Jul-26 06:01:24 - INFO - *************Dashboard text found*************
+21-Jul-26 06:01:26 - INFO - *************test_locked_out_login*************
+21-Jul-26 06:01:26 - INFO - *************error message matches*************
+21-Jul-26 06:01:28 - INFO - *************test_incorrect_user_login*************
+21-Jul-26 06:01:28 - INFO - *************error text matches*************
+21-Jul-26 06:18:35 - INFO - *************Test_01_Admin_Login*************
+21-Jul-26 06:18:35 - INFO - *************verification of page title*************
+21-Jul-26 06:18:35 - INFO - *************test_incorrect_user_login*************
+21-Jul-26 06:18:35 - INFO - *************test_locked_out_login*************
+21-Jul-26 06:18:35 - INFO - *************test_valid_login*************
+21-Jul-26 06:18:35 - INFO - *************test_title_verification matched*************
+21-Jul-26 06:18:36 - INFO - *************error text matches*************
+21-Jul-26 06:18:36 - INFO - *************error message matches*************
+21-Jul-26 06:18:36 - INFO - *************Dashboard text found*************
+21-Jul-26 06:19:33 - INFO - *************Test_01_Admin_Login*************
+21-Jul-26 06:19:33 - INFO - *************verification of page title*************
+21-Jul-26 06:19:34 - INFO - *************test_locked_out_login*************
+21-Jul-26 06:19:34 - INFO - *************test_title_verification matched*************
+21-Jul-26 06:19:34 - INFO - *************error message matches*************
+21-Jul-26 06:19:35 - INFO - *************test_valid_login*************
+21-Jul-26 06:19:35 - INFO - *************Dashboard text found*************
+21-Jul-26 06:19:35 - INFO - *************test_incorrect_user_login*************
+21-Jul-26 06:19:36 - INFO - *************error text matches*************
+21-Jul-26 06:31:40 - INFO - *************Test_01_Admin_Login*************
+21-Jul-26 06:31:40 - INFO - *************verification of page title*************
+21-Jul-26 06:31:41 - INFO - *************test_title_verification matched*************
+21-Jul-26 06:31:42 - INFO - *************test_valid_login*************
+21-Jul-26 06:31:43 - INFO - *************Dashboard text found*************
+21-Jul-26 06:31:44 - INFO - *************test_locked_out_login*************
+21-Jul-26 06:31:44 - INFO - *************error message matches*************
+21-Jul-26 06:31:45 - INFO - *************test_incorrect_user_login*************
+21-Jul-26 06:31:46 - INFO - *************error text matches*************
+22-Jul-26 05:53:47 - INFO - *************Test_01_Admin_Login*************
+22-Jul-26 05:53:47 - INFO - *************verification of page title*************
+22-Jul-26 05:53:47 - INFO - *************test_title_verification matched*************
+22-Jul-26 05:53:48 - INFO - *************test_valid_login*************
+22-Jul-26 05:53:49 - INFO - *************Dashboard text found*************
+22-Jul-26 05:53:50 - INFO - *************test_locked_out_login*************
+22-Jul-26 05:53:51 - INFO - *************error message matches*************
+22-Jul-26 05:53:52 - INFO - *************test_incorrect_user_login*************
+22-Jul-26 05:53:52 - INFO - *************error text matches*************
+25-Jul-26 09:51:45 - INFO - *************test_valid_login_data_driven_started*************
+25-Jul-26 09:54:10 - INFO - *************test_valid_login_data_driven_started*************
+25-Jul-26 09:54:47 - INFO - *************test_valid_login_data_driven_started*************
+25-Jul-26 09:56:23 - INFO - *************test_valid_login_data_driven_started*************
+25-Jul-26 10:08:04 - INFO - *************Test_01_Admin_Login*************
+25-Jul-26 10:08:04 - INFO - *************verification of page title*************
+25-Jul-26 10:08:05 - INFO - *************test_title_verification matched*************
+25-Jul-26 10:08:06 - INFO - *************test_valid_login*************
+25-Jul-26 10:08:07 - INFO - *************Dashboard text found*************
+25-Jul-26 10:08:08 - INFO - *************test_locked_out_login*************
+25-Jul-26 10:08:08 - INFO - *************error message matches*************
+25-Jul-26 10:08:09 - INFO - *************test_incorrect_user_login*************
+25-Jul-26 10:08:10 - INFO - *************error text matches*************
+25-Jul-26 10:11:40 - INFO - *************test_valid_login_data_driven_started*************
+25-Jul-26 10:12:12 - INFO - *************test_valid_login_data_driven_started*************
+25-Jul-26 10:19:36 - INFO - *************test_valid_login_data_driven_started*************
+25-Jul-26 10:25:08 - INFO - *************test_valid_login_data_driven_started*************
+25-Jul-26 10:36:52 - INFO - *************test_valid_login_data_driven_started*************
+25-Jul-26 10:37:46 - INFO - *************test_valid_login_data_driven_started*************
+25-Jul-26 10:38:08 - INFO - *************test_valid_login_data_driven_started*************
+25-Jul-26 10:40:01 - INFO - *************test_valid_login_data_driven_started*************
+25-Jul-26 10:41:24 - INFO - *************test_valid_login_data_driven_started*************
+25-Jul-26 10:41:53 - INFO - *************test_valid_login_data_driven_started*************
+25-Jul-26 10:42:13 - INFO - *************test_valid_login_data_driven_started*************
+28-Jul-26 05:52:24 - INFO - *************test_valid_login*************
+28-Jul-26 05:55:38 - INFO - *************test_valid_login*************
+28-Jul-26 05:58:11 - INFO - *************Test_01_Admin_Login*************
+28-Jul-26 05:58:11 - INFO - *************verification of page title*************
+28-Jul-26 05:58:12 - INFO - *************test_title_verification title did not match*************
+28-Jul-26 05:58:19 - INFO - *************test_valid_login*************
+28-Jul-26 05:58:28 - INFO - *************test_locked_out_login*************
+28-Jul-26 05:58:37 - INFO - *************test_incorrect_user_login*************
+28-Jul-26 05:59:30 - INFO - *************test_valid_login*************
+28-Jul-26 05:59:56 - INFO - *************test_valid_login*************
+28-Jul-26 06:00:21 - INFO - *************test_valid_login*************
+28-Jul-26 06:01:03 - INFO - *************test_valid_login*************
+28-Jul-26 06:01:28 - INFO - *************test_valid_login*************
+30-Jul-26 06:13:40 - INFO - *************test_add_SLOnesie_to_cart*************
+30-Jul-26 06:16:11 - INFO - *************test_add_SLOnesie_to_cart*************
+30-Jul-26 06:20:41 - INFO - *************test_add_SLOnesie_to_cart*************
+30-Jul-26 06:23:03 - INFO - *************test_add_SLOnesie_to_cart*************
+05-Aug-26 19:16:24 - INFO - *************test_add_SLOnesie_to_cart*************
+05-Aug-26 19:18:08 - INFO - *************test_add_SLOnesie_to_cart*************
+05-Aug-26 19:22:13 - INFO - *************test_add_SLOnesie_to_cart*************
+05-Aug-26 19:26:15 - INFO - *************test_add_SLOnesie_to_cart*************
+05-Aug-26 19:29:01 - INFO - *************test_add_SLOnesie_to_cart*************
+05-Aug-26 19:31:46 - INFO - *************test_add_SLOnesie_to_cart*************
+05-Aug-26 19:32:47 - INFO - *************test_add_SLOnesie_to_cart*************
+05-Aug-26 19:34:54 - INFO - *************test_add_SLOnesie_to_cart*************
+05-Aug-26 19:40:42 - INFO - *************test_add_SLOnesie_to_cart*************
+12-Aug-26 18:19:08 - WARNING - The chromedriver version (150.0.7871.124) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\chromedriver.exe might not be compatible with the detected chrome version (151.0.7922.109); currently, chromedriver 151.0.7922.138 is recommended for chrome 151.*, so it is advised to delete the driver in PATH and retry
+12-Aug-26 18:19:09 - INFO - *************test_add_SLBikeLight_to_cart*************
+12-Aug-26 18:19:10 - INFO - *************test_add_SLBikeLight_to_cart: Bike Light was successfully added to cart*************
+12-Aug-26 18:19:11 - INFO - *************test_add_SLBikeLight_to_cart: Checkout was successful!*************
+12-Aug-26 18:19:11 - WARNING - The chromedriver version (150.0.7871.124) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\chromedriver.exe might not be compatible with the detected chrome version (151.0.7922.109); currently, chromedriver 151.0.7922.138 is recommended for chrome 151.*, so it is advised to delete the driver in PATH and retry
+12-Aug-26 18:19:13 - INFO - *************test_valid_login*************
+12-Aug-26 18:19:14 - INFO - *************Dashboard text found*************
+12-Aug-26 18:22:24 - WARNING - The chromedriver version (150.0.7871.124) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\chromedriver.exe might not be compatible with the detected chrome version (151.0.7922.109); currently, chromedriver 151.0.7922.138 is recommended for chrome 151.*, so it is advised to delete the driver in PATH and retry
+12-Aug-26 18:22:26 - INFO - *************test_add_SLBikeLight_to_cart*************
+12-Aug-26 18:22:27 - INFO - *************test_add_SLBikeLight_to_cart: Bike Light was successfully added to cart*************
+12-Aug-26 18:22:28 - WARNING - The chromedriver version (150.0.7871.124) detected in PATH at C:\Users\User\Desktop\Selenium_Drivers\chromedriver.exe might not be compatible with the detected chrome version (151.0.7922.109); currently, chromedriver 151.0.7922.138 is recommended for chrome 151.*, so it is advised to delete the driver in PATH and retry
+12-Aug-26 18:22:29 - INFO - *************test_valid_login*************
+12-Aug-26 18:22:30 - INFO - *************Dashboard text found*************
+12-Aug-26 18:24:36 - INFO - *************test_add_SLBikeLight_to_cart*************
+12-Aug-26 18:24:38 - INFO - *************test_add_SLBikeLight_to_cart: Bike Light was successfully added to cart*************
+12-Aug-26 18:24:38 - INFO - *************test_add_SLBikeLight_to_cart: Checkout was successful!*************
+12-Aug-26 18:24:49 - INFO - *************test_valid_login*************
+12-Aug-26 18:24:50 - INFO - *************Dashboard text found*************
+12-Aug-26 18:50:44 - INFO - *************test_add_SLBikeLight_to_cart*************
+12-Aug-26 18:50:46 - INFO - *************test_add_SLBikeLight_to_cart: Bike Light was successfully added to cart*************
+12-Aug-26 18:50:46 - INFO - *************test_add_SLBikeLight_to_cart: Checkout was successful!*************
+12-Aug-26 18:50:56 - INFO - *************test_valid_login*************
+12-Aug-26 18:50:58 - INFO - *************Dashboard text found*************
+12-Aug-26 19:00:44 - INFO - *************test_add_SLBikeLight_to_cart*************
+12-Aug-26 19:00:46 - INFO - *************test_add_SLBikeLight_to_cart: Bike Light was successfully added to cart*************
+12-Aug-26 19:00:47 - INFO - *************test_add_SLBikeLight_to_cart: Checkout was successful!*************
+12-Aug-26 19:00:57 - INFO - *************test_valid_login*************
+12-Aug-26 19:00:58 - INFO - *************Dashboard text found*************
